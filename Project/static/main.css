@@ -1,0 +1,23 @@
+#jumbotron-text {
+    text-align: center;
+}
+
+.titel-div{
+    background-image: url("bungalow_header.jpg");
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.info-div{
+    margin-top: 50px;
+}
+
+.img-half{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 10px;
+}
